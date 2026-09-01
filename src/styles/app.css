@@ -1,0 +1,3 @@
+html{scroll-behavior:auto;}
+.section-component{width:100%;}
+/* Shared React shell intentionally stays layout-neutral; original site CSS controls the visual design. */

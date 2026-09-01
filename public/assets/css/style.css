@@ -1,0 +1,505 @@
+.bg-color {
+    background-color: #e3eff4;
+}
+.bg01 {
+    background-color: #3c3282;
+}
+.navbar-brand img {
+    max-width: 210px;
+}
+
+.gallery-content ul li {
+    font-size: 16px;
+}
+
+.partner-swiper .swiper-slide{
+border: 1px solid #CFCACA;
+}
+.counter-bg-space {
+    height: 640px;
+}
+.brochure h3 {
+    font-weight: 400;
+    line-height: 38px;
+    margin-bottom: 0;
+}
+
+.footer-icon {
+    margin-top: 30px;
+}
+.footer-icon img {
+    max-width: 200px;
+}
+.navbar-brand2{
+    max-width: 150px;
+}
+
+.clients-logo {
+    background-color: #fff;
+    padding: 0px 50px;
+    border: 1px solid #b9e4f6b8;
+    border-radius: 12px;
+    overflow: hidden; /* Optional */
+}
+
+.clients-logo img {
+    width: 100%;
+    transition: transform 0.4s ease-in-out;
+    transform: scale(1);
+}
+
+.clients-logo img:hover {
+    transform: scale(0.8);
+}
+
+
+.products-logo {
+    background-color: #fff;
+    padding: 0px 0px;
+    border: 1px solid #b9e4f6b8;
+    border-radius: 12px;
+    overflow: hidden; /* Optional */
+    display: block;
+}
+
+.products-logo img {
+    width: 100%;
+    transition: transform 0.4s ease-in-out;
+    transform: scale(1);
+}
+
+.products-logo img:hover {
+    transform: scale(1.1);
+}
+
+.font-size-20{
+    font-size: 22px !important;
+}
+
+.header-search-btn {
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+}
+
+.whatsapp i {
+    color: #00c116;
+    font-size: 22px;
+}
+.call i {
+    color: #1b82c3;
+    font-size: 22px;
+}
+.mobile-fix-call-whatsapp{
+    display: none;
+}
+@media (max-width: 768px) {
+
+    .font-size-20{
+    font-size: 18px !important;
+}
+
+
+.whatsapp i{
+    color: #fff;
+}
+.call i{
+    color: #fff;
+}
+button.btn.whatsapp {
+    background-color: #3dc43f;
+    padding: 12px;
+    border-radius: 60px;
+    margin-bottom: 5px;
+}
+button.btn.call {
+    background-color: #3a9fe0;
+    padding: 12px;
+    border-radius: 60px;
+}
+.mobile-fix-call-whatsapp {
+        display: block;
+        position: fixed;
+        bottom: 100px;
+        right: 0;
+        width: 70px;
+    }
+
+    .header-search-btn{
+        display: none;
+    }
+
+    .testionial-box-items{
+        margin: 0px 42px;
+    }
+
+    .counter-bg-space {
+    height: 270px;
+}
+
+    .cta-card-two {
+    margin-bottom: 20px;
+}
+
+    .brochure h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+    .f-mobile-dnone{
+       display: none;
+    }
+
+    .header-search-btn {
+    justify-content: start;
+}
+
+    .clients-logo {
+    padding: 0px 20px;
+}
+.gallery-wrapper-four .gallery-content {
+    margin-left: 0px;
+}
+}
+
+
+
+.specification-section{
+    padding:70px 15px;
+}
+
+.section-title{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.section-title span{
+    color:#00A0E3;
+    font-size:15px;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}
+
+.section-title h2{
+    font-size:38px;
+    color:#393185;
+    margin-top:10px;
+    font-weight:700;
+}
+
+.section-title p{
+    max-width:700px;
+    margin:15px auto 0;
+    color:#666;
+    font-size:16px;
+}
+
+.table-box{
+    background:#fff;
+    border-radius:15px;
+    box-shadow:0 15px 40px rgba(0,0,0,.08);
+    overflow:hidden;
+}
+
+.table-responsive{
+    overflow-x:auto;
+}
+
+.details-table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+.details-table tr{
+    transition:.3s;
+}
+
+.details-table tr:nth-child(even){
+    background:#f8fbff;
+}
+
+.details-table tr:hover{
+    background:#eef7ff;
+}
+
+.details-table td{
+    padding:20px 25px;
+    border-bottom:1px solid #e6edf5;
+    font-size:16px;
+}
+
+.details-table tr:last-child td{
+    border-bottom:none;
+}
+
+.details-table td:first-child{
+    width:45%;
+    background:#f5f9fc;
+    color:#393185;
+    font-weight:600;
+    border-right:1px solid #e6edf5;
+}
+
+.details-table td:last-child{
+    color:#555;
+    font-weight:500;
+}
+
+.details-table thead th {
+    padding: 15px 20px;
+    background-color: #efecff;
+}
+p.table-note {
+    margin-top: 20px;
+}
+
+@media(max-width:768px){
+
+.hero-content p {
+    margin-bottom: 15px !important;
+}
+.pd-page .hero-content h2 {
+    margin-bottom: 5px !important;
+}
+.section-title h2{
+    font-size:28px;
+}
+
+.section-title p{
+    font-size:14px;
+}
+
+.details-table td{
+    padding:14px 15px;
+    font-size:14px;
+}
+
+.details-table td:first-child{
+    width:50%;
+}
+
+}
+
+.hero-slide-1{
+    background-image: url('../img/mainbanner01.jpg');
+}
+.hero-slide-2{
+    background-image: url('../img/mainbanner02.jpg');
+}
+.hero-slide-3{
+    background-image: url('../img/mainbanner03.jpg');
+}
+
+.hero-slide-4{
+    background-image: url('../img/product-details/thermal_oil_pump01.jpg');
+    background-size: 100% !important;
+}
+.hero-slide-5{
+    background-image: url('../img/product-details/investment_casting_pump.jpg');
+}
+.hero-slide-6{
+    background-image: url('../img/product-details/progressive_cavity_pumps.jpg');
+}
+
+
+/* Mobile Banner */
+
+@media (max-width:767px){
+
+    .divider-mobile {
+        margin-top: 40px;
+    } 
+
+.mobile-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+}  
+
+.hero-slide-1{
+    background-image: url('../img/mobile_mainbanner01.jpg') !important;
+}
+.hero-slide-2{
+    background-image: url('../img/mobile_mainbanner02.jpg') !important;
+}
+.hero-slide-3{
+    background-image: url('../img/mobile_mainbanner03.jpg') !important;
+}
+.hero-slide-4{
+    background-image: url('../img/product-details/mobile_thermal_oil_pump01.jpg') !important;
+    background-size: 100% !important;
+}
+.hero-slide-5{
+    background-image: url('../img/product-details/mobile_investment_casting_pump.jpg') !important;
+    background-size: 100% !important;
+}
+.hero-slide-6{
+    background-image: url('../img/product-details/mobile_progressive_cavity_pumps.jpg') !important;
+    background-size: 100% !important;
+}
+
+}
+
+
+.destination-box-items {
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.destination-image {
+    position: relative;
+    display: block;
+}
+
+.destination-image img {
+    width: 100%;
+    display: block;
+    transition: all .5s ease;
+}
+
+/* Hover Image */
+.destination-image .img-hover {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.destination-box-items:hover .img-default {
+    opacity: 0;
+    transform: scale(1.05);
+}
+
+.destination-box-items:hover .img-hover {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1.05);
+}
+
+video.banner-video {
+    width: 100%;
+    object-fit: cover;
+    height: 670px;
+}
+.video-banner {
+    line-height: 0;
+}
+
+p.apli-text {
+    font-size: 22px;
+}
+
+section.download-data-sheets {
+    background-color: #3c3282;
+    padding: 30px;
+}
+.download-data-sheets .container {
+    background-color: #00000033;
+    border-radius: 25px;
+    border: 1px solid #ffffff40;
+    padding: 25px;
+}
+
+@media (max-width:1380px) {
+
+    p.apli-text {
+    font-size: 16px;
+}
+
+    video.banner-video {
+    height: 500px;
+}
+
+.why-choose-section .container {
+    max-width: 1270px;
+}
+
+    .testionial-box-items h3 {
+    font-size: 16px;
+    margin-top: 0px;
+    line-height: 28px;
+}
+.client-info h4 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+}
+
+@media (max-width:600px){
+.video-banner {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+video.banner-video {
+    height: 280px;
+}
+/* div#jarallax-container-0 div {
+    background-size: 100% !important;
+    margin-top: 0 !important;
+} */
+
+.hero-content {
+    min-height: 200px;
+}
+
+}
+
+
+@media (min-width:1380px) {
+li.tourly-dd.logo-set {
+    margin-left: -65px;
+}
+}
+
+.captcha-wrapper {
+  width: 100%;
+}
+
+.captcha-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.captcha-box input {
+  width: 168px;
+  height: 40px;
+  padding: 0 14px;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  background: #fff;
+}
+
+.captcha-image {
+  width: 130px;
+  height: 40px;
+  display: block;
+  border-radius: 2px;
+}
+
+.captcha-refresh {
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: #d3a44e;
+  font-size: 34px;
+  line-height: 1;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.captcha-refresh:hover {
+  transform: rotate(180deg);
+}
+
+.captcha-error {
+  display: block;
+  text-align: center;
+  margin-top: 6px;
+  font-size: 13px;
+}
