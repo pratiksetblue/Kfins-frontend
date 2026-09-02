@@ -93,6 +93,13 @@ border: 1px solid #CFCACA;
 .mobile-fix-call-whatsapp{
     display: none;
 }
+@media (max-width: 991px) {
+    .cta-card-two {
+    margin-bottom: 20px;
+}
+}
+
+
 @media (max-width: 768px) {
 
     .font-size-20{
@@ -305,7 +312,7 @@ p.table-note {
 
 /* Mobile Banner */
 
-@media (max-width:767px){
+@media (max-width:768px){
 
     .divider-mobile {
         margin-top: 40px;

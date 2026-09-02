@@ -15301,10 +15301,13 @@ input:required,textarea:required,input:invalid,textarea:invalid {
 	background-size:cover;
 	transition:var(--transition)
 }
+
+
+
 @media only screen and (min-width:576px) {
 	.hero-section.style-two .hero-swiper-slide {
-	padding-top:70px;
-	padding-bottom:70px
+	padding-top:210px;
+	padding-bottom:100px
 }
 }
 
@@ -24488,7 +24491,7 @@ to {
 
 .cta-card-two h3 {
     color: var(--text-black);
-	font-size: clamp(14px,4vw,16px);
+	font-size: clamp(14px,3vw,16px);
 	font-weight: 400;
 }
 .cta-card-two:hover h3{
@@ -26155,4 +26158,17 @@ textarea.form-control {
   display: block;
   margin-top: 5px;
   font-size: 12px;
+}
+
+@media only screen and (max-width:600px) {
+
+	.header-area.style-three {
+    top: 15px;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+	.hero-five .hero-navigation {
+    display: none;
+}
 }
