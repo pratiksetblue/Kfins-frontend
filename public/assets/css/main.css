@@ -24491,7 +24491,7 @@ to {
 
 .cta-card-two h3 {
     color: var(--text-black);
-	font-size: clamp(14px,3vw,16px);
+	font-size: clamp(12px,3vw,16px);
 	font-weight: 400;
 }
 .cta-card-two:hover h3{
@@ -24972,7 +24972,7 @@ textarea.form-control {
 	border-radius:12px;
 	background:var(--secondary);
 	border:0;
-	margin-right:85px
+	margin-right:65px
 }
 .faq-accordion .accordion-item .accordion-button {
 	border-radius:10px;
@@ -24996,10 +24996,10 @@ textarea.form-control {
 	box-shadow:none!important
 }
 .faq-accordion .accordion-item .accordion-button:after {
-	width:42px;
-	height:42px;
+	width:36px;
+	height:36px;
 	position:absolute;
-    right: -65px;
+    right: -50px;
     top: 15px;
 	z-index:10;
 	border-radius:50%;
