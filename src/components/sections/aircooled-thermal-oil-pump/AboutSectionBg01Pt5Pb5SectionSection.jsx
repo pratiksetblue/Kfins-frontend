@@ -8,8 +8,8 @@ export default function AboutSectionBg01Pt5Pb5SectionSection() {
 <div class="col-12 col-lg-6">
 <div class="about-content ps-md-4">
 <div class="section-heading">
-<h3 class="mb-3 text-white">Pump Casing</h3>
-<p class="mb-5 text-white">Single spiral volute
+<h3 class="mb-3 light-blue">Pump Casing</h3>
+<p class="mb-5 text-white text-justify">Single spiral volute
                                  type radially split with integrated suction and
                                  discharge ports and also integrally cast feet
                                  for baseplate attachment. Thanks to back
@@ -18,8 +18,8 @@ export default function AboutSectionBg01Pt5Pb5SectionSection() {
                                  without needing to disconnect the casing from
                                  the pipe-connections. Suction Port is axial and
                                  discharge is vertical.</p>
-<h3 class="mb-3 text-white">Shaft And Support</h3>
-<p class="mb-5 text-white">The impeller is
+<h3 class="mb-3 light-blue">Shaft And Support</h3>
+<p class="mb-5 text-white text-justify">The impeller is
                                  overhung mounted on the end of the end the
                                  shaft. The shaft is designed to be able to
                                  withstand all mechanical and thermal efforts
@@ -36,14 +36,14 @@ export default function AboutSectionBg01Pt5Pb5SectionSection() {
 <!-- About Content -->
 <div class="about-content ps-md-4">
 <div class="section-heading">
-<h3 class="mb-3 text-white">Impeller</h3>
-<p class="mb-5 text-white">The impeller of the
+<h3 class="mb-3 light-blue">Impeller</h3>
+<p class="mb-5 text-white text-justify">The impeller of the
                                  Aircooled thermal oil pumps are single entry,
                                  closed type and dynamically balanced. The
                                  impeller has back Ring &amp; Holes between each fin
                                  for the axial balancing of pressures.</p>
-<h3 class="mb-3 text-white">Shaft &amp; Bearings</h3>
-<p class="mb-5 text-white">Shaft sealing is
+<h3 class="mb-3 light-blue">Shaft &amp; Bearings</h3>
+<p class="mb-5 text-white text-justify">Shaft sealing is
                                  obtained by means of high security mechanical
                                  seal placed in the bearing housing, closed to
                                  the end call bearing l, near to the shaft end.
@@ -63,7 +63,6 @@ export default function AboutSectionBg01Pt5Pb5SectionSection() {
 </div>
 </div>
 </div>
-<div class="divider-sm"></div>
 </div>
 </section>
 ` }} />;

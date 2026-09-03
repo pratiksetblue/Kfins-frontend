@@ -2,12 +2,17 @@ import React from 'react';
 
 export default function AboutSectionThemeTwoSectionSection2() {
   return <div className="section-component section-aboutthemetwo2" dangerouslySetInnerHTML={{ __html: `
-<section class="about-section theme-two">
+<section class="technical-details-w about-section theme-two">
 <div class="container">
-<div class="row g-5">
+<div class="divider-sm"></div>
+<div class="row g-5 align-items-center">
 <div class="col-12 col-lg-6">
+<img alt="thermal_oil_pump" src="/assets/img/product-details/thermal_oil_pump2.jpg"/>
+</div>
+<div class="col-12 col-lg-6">
+
 <!-- About Content -->
-<div class="about-content ps-md-4">
+<div class="about-content mb-5">
 <div class="section-heading">
 <h3 class="mb-3">Technical Details</h3>
 <div class="table-box">
@@ -45,8 +50,7 @@ export default function AboutSectionThemeTwoSectionSection2() {
 </div>
 </div>
 </div>
-</div>
-<div class="col-12 col-lg-6">
+
 <h3 class="mb-3">Fields Of Application</h3>
 <div class="table-box">
 <div class="table-responsive">

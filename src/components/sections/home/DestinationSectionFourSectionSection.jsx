@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function DestinationSectionFourSectionSection() {
   return <div className="section-component section-destinationfour" dangerouslySetInnerHTML={{ __html: `
-<section class="destination-section-four">
+<section class="destination-section-four home-p-slider">
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-12 col-lg-8">

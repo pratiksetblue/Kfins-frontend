@@ -17048,7 +17048,7 @@ to {
 }
 .about-video-content img {
 	width:100%;
-	border-radius: 15px;
+	border-radius: 0px;
 }
 .about-video-content .play-video-btn .icon {
 	position:absolute;
@@ -18924,7 +18924,7 @@ to {
 	left:0
 }
 .destination-box-items .destination-image img {
-	border-radius:18px;
+	border-radius:0px;
 	transition:var(--transition);
 	width:100%;
 	height:100%
@@ -24716,7 +24716,7 @@ textarea.form-control {
 	left:0;
 	width:100%;
 	height:calc(100% - 80px);
-	background:#00026e66
+	background:#00026e3b;
 }
 @media only screen and (min-width:1200px) {
 	.contact-section:after {

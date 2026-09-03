@@ -14,7 +14,7 @@ export default function DestinationSectionFourSectionSection() {
 </div>
 </div>
 <div class="divider-sm"></div>
-<div class="container-fluid">
+<div class="container">
 <div class="swiper destination-swiper">
 <div class="swiper-wrapper">
 <!-- Slide Item -->

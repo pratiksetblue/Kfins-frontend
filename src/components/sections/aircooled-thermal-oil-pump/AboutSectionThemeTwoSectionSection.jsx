@@ -13,7 +13,7 @@ export default function AboutSectionThemeTwoSectionSection() {
 <p class="mb-5">All kinds of heat transfer
                                  liquids.</p>
 <h3 class="mb-3">Design</h3>
-<p class="mb-5">From the hydraulic point of view,
+<p class="mb-5 text-justify">From the hydraulic point of view,
                                  the Aircooled thermal oil pumps are centrifugal
                                  single stage, horizontal, volute type pumps.
                                  With regards to the mechanical design, the main

@@ -23,7 +23,7 @@ export default function AboutSectionThemeTwoBgWhiteSectionSection() {
 <div class="about-content ps-md-4">
 <div class="section-heading">
 <h2 class="mb-3">Working Principle</h2>
-<ul>
+<ul class="pcp-f">
 <li>The pumping elements are stator and rotor.</li>
 <li>The stator is made of resilient elastomeric materials and bonded to stator tubes.</li>
 <li>A single helical rotor rolls eccentrically in double threaded helix stator of twice the pitch length</li>

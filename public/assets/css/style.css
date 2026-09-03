@@ -204,7 +204,7 @@ button.btn.call {
 
 .table-box{
     background:#fff;
-    border-radius:15px;
+    border-radius:0px;
     box-shadow:0 15px 40px rgba(0,0,0,.08);
     overflow:hidden;
 }
@@ -254,8 +254,9 @@ button.btn.call {
 }
 
 .details-table thead th {
-    padding: 15px 20px;
-    background-color: #efecff;
+    padding: 20px 20px;
+    background-color: #46368E;
+    color: #fff;
 }
 p.table-note {
     margin-top: 20px;
@@ -353,6 +354,7 @@ p.table-note {
     overflow: hidden;
     border-radius: 20px;
 }
+
 
 .destination-image {
     position: relative;
@@ -471,13 +473,14 @@ li.tourly-dd.logo-set {
 }
 
 .captcha-box input {
-  width: 168px;
-  height: 40px;
-  padding: 0 14px;
-  border: none;
-  border-radius: 6px;
-  outline: none;
-  background: #fff;
+    width: 170px;
+    height: 50px;
+    padding: 0 13px;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+    background: #2121215e;
+    border: 1px solid #7f7f7f;
 }
 
 .captcha-image {
@@ -509,4 +512,59 @@ li.tourly-dd.logo-set {
   text-align: center;
   margin-top: 6px;
   font-size: 13px;
+}
+
+.light-blue{
+    color: #3A9FE0;
+}
+.text-justify{
+    text-align: justify;
+}
+.gallery-wrapper-four {
+    padding: 30px 0;
+}
+
+.img-radius{
+    border-radius: 12px;
+}
+
+.technical-details-w .container {
+    max-width: 1600px;
+}
+
+.progressive-cavity-pumps-w .about-content {
+    border: 1px solid #ffffff3b;
+    padding:35px !important;
+    height: 100%;
+    background-color: #2f236a;
+    border-radius: 10px;
+}
+
+.progressive-cavity-pumps-w .about-content h3 {
+    font-size: 24px;
+}
+.progressive-cavity-pumps-w .about-content ul {
+    margin: 0;
+    padding: 0px 0px;
+}
+.progressive-cavity-pumps-w .about-content ul li {
+    font-size: 15px;
+    color: #dddddd;
+    padding-bottom: 10px;
+    list-style: none;
+}
+
+.pcp-f {
+    margin: 0;
+    padding: 0;
+}
+.pcp-f li {
+    list-style: none;
+    border-bottom: 1px solid #8fd3ff;
+    background-color: #ffffff;
+    margin: 3px;
+    padding: 10px 0;
+}
+.pcp-f li b {
+    color: #3c3282;
 }
