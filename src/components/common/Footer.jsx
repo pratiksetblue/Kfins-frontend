@@ -52,7 +52,7 @@ export default function Footer() {
 <ul class="footer-nav">
 <li><a href="/about-us">About us</a></li>
 <li><a href="/products">Products</a></li>
-<li><a href="/infrastructure">infrastructure</a></li>
+<li><a href="/infrastructure">Infrastructure</a></li>
 <li><a href="/clients">Clients</a></li>
 <li><a href="/blog">Blogs</a></li>
 <li><a href="/contact">Contact Us</a></li>
@@ -116,7 +116,7 @@ export default function Footer() {
 <div class="col-12 col-md-12">
 <p class="copyright">©
                               <span id="year"></span> K-Fins Pumps Pvt. Ltd. All Rights
-                              Reserved. | Website Designed by : <a href="https://setblue.com/" target="_blank">setblue</a></p>
+                              Reserved. | Website Designed by : <a href="https://setblue.com/" target="_blank">Setblue.com</a></p>
 </div>
 </div>
 </div>
