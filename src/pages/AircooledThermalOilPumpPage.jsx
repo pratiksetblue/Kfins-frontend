@@ -13,7 +13,7 @@ import AboutSectionThemeTwoSectionSection2 from '../components/sections/aircoole
 import BgWhitePb5SectionSection from '../components/sections/aircooled-thermal-oil-pump/BgWhitePb5SectionSection.jsx';
 import DownloadDataSheetsSectionSection from '../components/sections/aircooled-thermal-oil-pump/DownloadDataSheetsSectionSection.jsx';
 import DestinationSectionFourBgWhiteSectionSection from '../components/sections/aircooled-thermal-oil-pump/DestinationSectionFourBgWhiteSectionSection.jsx';
-import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/aircooled-thermal-oil-pump/ContactSectionFourBgImgJarallaxSectionSection.jsx';
+import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/home/ContactSectionFourBgImgJarallaxSectionSection.jsx';
 
 export default function AircooledThermalOilPumpPage() {
   return (

@@ -10,7 +10,7 @@ import DividerSmDivSection from '../components/sections/progressive-cavity-pumps
 import AboutSectionThemeTwoSectionSection2 from '../components/sections/progressive-cavity-pumps/AboutSectionThemeTwoSectionSection2.jsx';
 import DividerDivSection from '../components/sections/progressive-cavity-pumps/DividerDivSection.jsx';
 import DestinationSectionFourBgWhiteSectionSection from '../components/sections/progressive-cavity-pumps/DestinationSectionFourBgWhiteSectionSection.jsx';
-import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/progressive-cavity-pumps/ContactSectionFourBgImgJarallaxSectionSection.jsx';
+import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/home/ContactSectionFourBgImgJarallaxSectionSection.jsx';
 
 export default function ProgressiveCavityPumpsPage() {
   return (

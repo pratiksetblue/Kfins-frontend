@@ -12,7 +12,7 @@ import DividerSmDivSection3 from '../components/sections/investment-casting-pump
 import AboutSectionThemeTwoSectionSection2 from '../components/sections/investment-casting-pump/AboutSectionThemeTwoSectionSection2.jsx';
 import DividerDivSection from '../components/sections/investment-casting-pump/DividerDivSection.jsx';
 import DestinationSectionFourBgWhiteSectionSection from '../components/sections/investment-casting-pump/DestinationSectionFourBgWhiteSectionSection.jsx';
-import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/investment-casting-pump/ContactSectionFourBgImgJarallaxSectionSection.jsx';
+import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/home/ContactSectionFourBgImgJarallaxSectionSection.jsx';
 
 export default function InvestmentCastingPumpPage() {
   return (

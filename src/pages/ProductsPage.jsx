@@ -4,7 +4,7 @@ import Footer from '../components/common/Footer';
 import GlobalActions from '../components/common/GlobalActions';
 import BreadcrumbSectionDivSection from '../components/sections/products/BreadcrumbSectionDivSection.jsx';
 import ProductsPageDivSection from '../components/sections/products/ProductsPageDivSection.jsx';
-import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/products/ContactSectionFourBgImgJarallaxSectionSection.jsx';
+import ContactSectionFourBgImgJarallaxSectionSection from '../components/sections/home/ContactSectionFourBgImgJarallaxSectionSection.jsx';
 
 export default function ProductsPage() {
   return (
